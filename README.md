@@ -1,1 +1,1 @@
-# Skip-Windows-11-Without-a-Microsoft-Account-and-Internet
+# Skip Windows 11 Without a Microsoft Account and Internet
