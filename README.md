@@ -20,7 +20,7 @@ Turns out there is a workaround for it, and here's how:
     It would open up the Command Prompt
   <li>Type the following:<pre><code>start ms-cxh:localonly</code></pre></li>
     It will allow you to create a local user account 
-  <li>Go through the typical Windows setup, then once done you're good to go</li>
+  <li>Go through the typical Windows setup, once done you're good to go</li>
 </ol>
 
 <h2>Youtube Video Sources</h2>
