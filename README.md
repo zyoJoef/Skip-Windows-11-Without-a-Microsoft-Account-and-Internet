@@ -23,4 +23,7 @@ Turns out there is a workaround for it, and here's how:
   <li>Proceed with the usual Windows setup, and then it's finish</li>
 </ol>
 
-<h2>Sources</h2>
+<h2>Youtube Video Sources</h2>
+<a href="https://www.youtube.com/shorts/nDKec_qL1e">HOW TO SKIP WINDOWS 11 SETUP WITHOUT INTERNET! | LaptopFactory</a>
+  <br>
+<a href="https://www.youtube.com/shorts/ieUaZvZJ_s4">Set Up a Windows Laptop WITHOUT a Microsoft Account | davidbombal</a>
