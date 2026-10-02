@@ -6,11 +6,11 @@ Turns out there is a workaround for it, and here's how:
 <h2>Steps</h2>
 <ol>
   <li><b>Press Shift + F10</b> or <b>Press FN + Shift + F10</b></li>
-    It would open up the Command Prompt
+    It wil open up the Command Prompt
   <li>Type the following:<pre><code>oobe\bypassnro</code></pre></li>
     Wait for your device to restart and proceed on the setup
   <li>Press the <b>I don't have internet</b></li>
-  <li>Press Continue with limited setup</li>
+  <li>Press <b>Continue with limited setup</b></li>
   <li>Proceed with the usual Windows setup, and there you go</li>
 </ol>
 
@@ -18,11 +18,9 @@ Turns out there is a workaround for it, and here's how:
 <ol>
   <li><b>Press Shift + F10</b> or <b>Press FN + Shift + F10</b></li>
     It would open up the Command Prompt
-  <li>Type the following:<pre><code>oobe\bypassnro</code></pre></li>
-    Wait for your device to restart and proceed on the setup
-  <li>Press the <b>I don't have internet</b></li>
-  <li>Press Continue with limited setup</li>
-  <li>Proceed with the usual Windows setup, and there you go</li>
+  <li>Type the following:<pre><code>start ms-cxh:localonly</code></pre></li>
+    It will allow you to create a local user account 
+  <li>Proceed with the usual Windows setup, and then it's finish</li>
 </ol>
 
 <h2>Sources</h2>
