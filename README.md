@@ -11,7 +11,7 @@ Turns out there is a workaround for it, and here's how:
     Wait for your device to restart and proceed on the setup
   <li>Press the <b>I don't have internet</b></li>
   <li>Press <b>Continue with limited setup</b></li>
-  <li>Proceed with the usual Windows setup, and there you go</li>
+  <li>Proceed with the usual Windows setup, then it's finished</li>
 </ol>
 
 <h2>Alternative for Creating a Local Account</h2>
@@ -20,7 +20,7 @@ Turns out there is a workaround for it, and here's how:
     It would open up the Command Prompt
   <li>Type the following:<pre><code>start ms-cxh:localonly</code></pre></li>
     It will allow you to create a local user account 
-  <li>Proceed with the usual Windows setup, then it's finished</li>
+  <li>Go through the typical Windows setup, then once done you're good to go</li>
 </ol>
 
 <h2>Youtube Video Sources</h2>
