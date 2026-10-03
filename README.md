@@ -27,6 +27,11 @@ Turns out there is a workaround for it, and here's how:
 <p>If you're installing a fresh install of Windows 11, then you could
 bypass the requirement needed as well as the possibility of being able
 to create a local account</p>
+<ol>
+  <li>Go to Rufus</li>
+  <li>Tick the Remove requirements boxes, Create a local username, Disable data collection</li>
+  <li>When finished, go through the typical Windows installation and you're done</li>
+</ol>
 
 <h2>References</h2>
 <a href="https://www.youtube.com/shorts/nDKec_qL1e">HOW TO SKIP WINDOWS 11 SETUP WITHOUT INTERNET! | LaptopFactory</a>
