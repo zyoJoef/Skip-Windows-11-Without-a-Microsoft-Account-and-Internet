@@ -23,7 +23,14 @@ Turns out there is a workaround for it, and here's how:
   <li>Go through the typical Windows setup, once done you're good to go</li>
 </ol>
 
+<h2>Rufus</h2>
+<p>If you're installing a fresh install of Windows 11, then you could
+bypass the requirement needed as well as the possibility of being able
+to create a local account</p>
+
 <h2>References</h2>
 <a href="https://www.youtube.com/shorts/nDKec_qL1e">HOW TO SKIP WINDOWS 11 SETUP WITHOUT INTERNET! | LaptopFactory</a>
   <br>
 <a href="https://www.youtube.com/shorts/ieUaZvZJ_s4">Set Up a Windows Laptop WITHOUT a Microsoft Account | davidbombal</a>
+  <br>
+<a href="https://4sysops.com/archives/bypass-windows-11-hardware-restrictions-and-install-on-unsupported-pcs-using-rufus-or-flyby11/">Bypass Windows 11 hardware restrictions and install on unsupported PCs using Rufus or Flyby11 | 4sysops</a>  
